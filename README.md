@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ankus Nayak
 
-🚀 **Backend / Data Engineer**
-FastAPI • Python • Data Engineering • Cloud • DevOps
+🚀 **Backend / Data Engineer**<br>
+FastAPI · Python · Data Engineering · Cloud · DevOps
 
 I build **production-grade backend systems and data platforms** with a strong focus on **clean architecture, scalability, and reliability**.
 
