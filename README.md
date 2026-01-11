@@ -8,19 +8,20 @@ I build **production-grade backend systems and data platforms** with a strong fo
 ---
 
 ## 🧠 What I Work On
-- ⚡ **FastAPI & Python** – production-ready APIs, async systems, clean architecture
-- 🏗️ **Data Engineering** – ETL pipelines, event-driven systems, data modelling
-- ☁️ **Cloud & DevOps** – AWS, Docker, Kubernetes, Terraform, CI/CD
-- 📊 **Databases** – PostgreSQL, SQL, DBMS design
+
+- ⚡ Building **production-ready FastAPI APIs** with clean, async-first architecture
+- 🏗️ Designing **data pipelines & ETL systems** for real-world workloads
+- ☁️ Developing **cloud-native systems** with Docker, Terraform & CI/CD
+- 📊 Modeling and optimizing **relational databases** (PostgreSQL, SQL)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 🧩 **Languages & Frameworks:** Python · FastAPI
-- 🗄️ **Databases & Data:** PostgreSQL · SQL · ETL Pipelines · Data Modeling
-- ☁️ **Cloud & DevOps:** AWS · Docker · Terraform · Git · GitHub Actions
-- 🧪 **Reliability & Quality:** Unit & Integration Testing
+- **Languages & Frameworks:** Python · FastAPI
+- **Databases:** PostgreSQL · SQL
+- **Cloud & DevOps:** AWS · Docker · Terraform · GitHub Actions
+- **Quality:** Unit & Integration Testing
 
 ---
 
