@@ -17,24 +17,17 @@ I build **production-grade backend systems and data platforms** with a strong fo
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-- Python
-- FastAPI
+**🧩 Languages & Frameworks**  
+Python · FastAPI
 
-### Databases & Data
-- PostgreSQL
-- SQL
-- ETL Pipelines
-- Data Modelling
+**🗄️ Databases & Data**  
+PostgreSQL · SQL · ETL Pipelines · Data Modeling
 
-### Cloud & DevOps
-- AWS
-- Docker
-- Terraform
-- Git, GitHub Actions
+**☁️ Cloud & DevOps**  
+AWS · Docker · Terraform · Git · GitHub Actions
 
-### Reliability & Quality
-- Unit & Integration Testing
+**🧪 Reliability & Quality**  
+Unit & Integration Testing
 
 ---
 
