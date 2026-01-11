@@ -18,10 +18,10 @@ I build **production-grade backend systems and data platforms** with a strong fo
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** Python · FastAPI
-- **Databases:** PostgreSQL · SQL
-- **Cloud & DevOps:** AWS · Docker · Terraform · GitHub Actions
-- **Quality:** Unit & Integration Testing
+- 🧩 **Languages & Frameworks:** Python · FastAPI
+- 🗄️ **Databases:** PostgreSQL · SQL
+- ☁️ **Cloud & DevOps:** AWS · Docker · Terraform · GitHub Actions
+- 🧪 **Quality:** Unit & Integration Testing
 
 ---
 
